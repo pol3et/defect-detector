@@ -1,0 +1,4 @@
+ultralytics
+pyqt5
+opencv-python
+qt-material
