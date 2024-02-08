@@ -17,7 +17,7 @@ cd defect-detector
 
 ### Запустить приложение
 `
-python pip install requirements.txt
+python gui.py
 `
 
 ### Перейти в раздел детекция
